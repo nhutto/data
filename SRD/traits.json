@@ -485,6 +485,11 @@
             "description": "You have advantage on saving\rthrows against poison, and you have resistance\ragainst poison damage.",
             "name": "Stout Resilience",
             "race": "Stout Halfling"
+        },
+        "Ability Score Increase (Human)": {
+            "description": "Your ability scores each\rincrease by 1.",
+            "name": "Ability Score Increase",
+            "race": "Human"
         }
     }
 }
