@@ -505,6 +505,11 @@
             "description": "Through sounds and\rgestures, you can communicate simple ideas with Small\ror smaller beasts. Forest gnomes love animaIs and often\rkeep squirrels, badgers, rabbits, moles, woodpeckers,\rand other creatures as beloved pets.",
             "name": "Speak with Small Beasts",
             "race": "Forest Gnome"
+        },
+        "Darkvision (Half-Orc)": {
+            "description": "Thanks to your orc blood. you have\rsuperior vision in dark and dim conditions. You can\rsee in dim tight within 60 feet of you as if it were bright\rlight and in darkness as if it were dim light. You can't\rdiscern color in darkness, only shades of gray.",
+            "name": "Darkvision",
+            "race": "Half-Orc"
         }
     }
 }
