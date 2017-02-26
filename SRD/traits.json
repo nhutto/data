@@ -455,6 +455,16 @@
             "description": "You have proficiency with\rrapiers, shortswords, and hand crossbows.",
             "name": "Drow Weapon Training",
             "race": "Dark Elf (Drow)"
+        },
+        "Ability Score Increase (Mountain Dwarf)": {
+            "description": "Your Strength score\rincreases by 2.",
+            "name": "Ability Score Increase",
+            "race": "Mountain Dwarf"
+        },
+        "Dwarven Armor Training (Mountain Dwarf)": {
+            "description": "You have proficiency with\rlight and medium armor.",
+            "name": "Dwarven Armor Training",
+            "race": "Mountain Dwarf"
         }
     }
 }
