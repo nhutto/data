@@ -490,6 +490,21 @@
             "description": "Your ability scores each\rincrease by 1.",
             "name": "Ability Score Increase",
             "race": "Human"
+        },
+        "Ability Score Increase (Forest Gnome)": {
+            "description": "Your Dexterity score\rincreases by 1.",
+            "name": "Ability Score Increase",
+            "race": "Forest Gnome"
+        },
+        "Natural Illusionist (Forest Gnome)": {
+            "description": "You know the minor illusion\rcantrip. Intelligence is your spellcasting ability for it.",
+            "name": "Natural Illusionist",
+            "race": "Forest Gnome"
+        },
+        "Speak with Small Beasts (Forest Gnome)": {
+            "description": "Through sounds and\rgestures, you can communicate simple ideas with Small\ror smaller beasts. Forest gnomes love animaIs and often\rkeep squirrels, badgers, rabbits, moles, woodpeckers,\rand other creatures as beloved pets.",
+            "name": "Speak with Small Beasts",
+            "race": "Forest Gnome"
         }
     }
 }
