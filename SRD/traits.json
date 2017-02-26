@@ -430,6 +430,31 @@
             "description": "You can attempt to hide even when\ryou are only lighlly obscured by foliage, heavy rain,\rfalling snow, mist, and other natural phenomena.",
             "name": "Mask of the Wild",
             "race": "Wood Elf"
+        },
+        "Ability Score Increase (Dark Elf)": {
+            "description": "Your Charisma score\rincreases by 1.",
+            "name": "Ability Score Increase",
+            "race": "Dark Elf (Drow)"
+        },
+        "Superior Darkvision (Dark Elf)": {
+            "description": "Your darkvision has a radius of 120 feet.",
+            "name": "Superior Darkvision",
+            "race": "Dark Elf (Drow)"
+        },
+        "Sunlight Sensitivity (Dark Elf)": {
+            "description": "You have disadvantage on attack\rrolls and on Wisdom (Perception) checks that rely on\rsight when you, the target of your attack, or whatever\ryou are trying to perceive is in direct sunlight.",
+            "name": "Sunlight Sensitivity",
+            "race": "Dark Elf (Drow)"
+        },
+        "Drow Magic (Dark Elf)": {
+            "description": "You know the dancing lights cantrip.\rWhen you reach 3rd level, you can cast the faerie fire\rspell once per day. When you reach 5th level, you can\ralso cast the darkness spell once per day. Charisma is\ryour spellcasting ability for these spells.",
+            "name": "Drow Magic",
+            "race": "Dark Elf (Drow)"
+        },
+        "Drow Weapon Training (Dark Elf)": {
+            "description": "You have proficiency with\rrapiers, shortswords, and hand crossbows.",
+            "name": "Drow Weapon Training",
+            "race": "Dark Elf (Drow)"
         }
     }
 }
