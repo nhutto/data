@@ -465,6 +465,26 @@
             "description": "You have proficiency with\rlight and medium armor.",
             "name": "Dwarven Armor Training",
             "race": "Mountain Dwarf"
+        },
+        "Ability Score Increase (Lightfoot Halfling)": {
+            "description": "Your Charisma score\rincreases by 1.",
+            "name": "Ability Score Increase",
+            "race": "Lightfoot Halfling"
+        },
+        "Naturally Stealthy (Lightfoot Halfling)": {
+            "description": "You can attempt to hide even\rwhen you are obscured only by a creature that is at least\rone size larger than you.",
+            "name": "Naturally Stealthy",
+            "race": "Lightfoot Halfling"
+        },
+        "Ability Score Increase (Stout Halfling)": {
+            "description": "Your Constitution score\rincreases by 1.",
+            "name": "Ability Score Increase",
+            "race": "Stout Halfling"
+        },
+        "Stout Resilience (Stout Halfling)": {
+            "description": "You have advantage on saving\rthrows against poison, and you have resistance\ragainst poison damage.",
+            "name": "Stout Resilience",
+            "race": "Stout Halfling"
         }
     }
 }
