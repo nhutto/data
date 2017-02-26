@@ -61,6 +61,11 @@
             "name": "Ability Score Increase",
             "race": "High Elf"
         },
+        "Ability Score Increase (Wood Elf)": {
+            "description": "Your Wisdom score increases by 1.",
+            "name": "Ability Score Increase",
+            "race": "Wood Elf"
+        },
         "Ability Score Increase (Hill Dwarf)": {
             "description": "Your Wisdom score increases by 1.\n",
             "name": "Ability Score Increase",
@@ -407,9 +412,24 @@
             "race": "Rock Gnome"
         },
         "Trance (Elf)": {
-            "description": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is \u201ctrance.\u201d) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.\n",
+            "description": "Elves don't need to sleep. Instead, they meditate deeply, remaining semiconscious, for 4 hours a day. (The Common word for such meditation is “trance.”) While meditating, you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice. After resting in this way, you gain the same benefit that a human does from 8 hours of sleep.\n",
             "name": "Trance",
             "race": "Elf"
+        },
+        "Elf Weapon Training (Wood Elf)": {
+            "race": "Wood Elf",
+            "description": "You have proficiency with the\r\nlongsword, shortsword, shortbow, and longbow.",
+            "name": "Elf Weapon Training"
+        },
+        "Fleet of Foot (Wood Elf)": {
+            "description": "Your base walking speed\rincreases lo 35 feet.",
+            "name": "Fleet of Foot",
+            "race": "Wood Elf"
+        },
+        "Mask of the Wild (Wood Elf)": {
+            "description": "You can attempt to hide even when\ryou are only lighlly obscured by foliage, heavy rain,\rfalling snow, mist, and other natural phenomena.",
+            "name": "Mask of the Wild",
+            "race": "Wood Elf"
         }
     }
 }
